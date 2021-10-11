@@ -22,3 +22,5 @@ if number > 0:
     countdown(number)
 else:
     countup(number)
+
+print("Hello world")
